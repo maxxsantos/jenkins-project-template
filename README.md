@@ -1,1 +1,1 @@
-# jenkins-setup
+# Jenkins Project Template
